@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vickinga92.github.io/SaaSSEO/sitemap.xml
+Sitemap: https://vickinga92.github.io/saasseo/sitemap.xml
